@@ -1,4 +1,6 @@
-🛡️ ModSecurity WAF Deployment & Tuning Project (OWASP CRS)A comprehensive project focused on securing a vulnerable web application (Damn Vulnerable Web Application - DVWA) by deploying, configuring, and tuning the ModSecurity Open Source Web Application Firewall (WAF) with the OWASP Core Rule Set (CRS).
+🛡️ ModSecurity WAF Deployment & Tuning Project (OWASP CRS)
+
+A comprehensive project focused on securing a vulnerable web application (Damn Vulnerable Web Application - DVWA) by deploying, configuring, and tuning the ModSecurity Open Source Web Application Firewall (WAF) with the OWASP Core Rule Set (CRS).
 
 This project demonstrates the full WAF operational lifecycle: Passive Logging (DetectionOnly) -> Active Blocking (Enforcement) -> False Positive Tuning.
 
